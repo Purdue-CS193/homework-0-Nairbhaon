@@ -2,6 +2,7 @@
 - It looks like it should be easy
 - It will (hopefully) teach me useful things
 - My section has some people I recognise in it
+
 ```markdown
 Syntax highlighted code block
 
